@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Task App</string>
+    <string name="savechore">SAVE TASK</string>
+    <string name="enter_a_chore">Enter Chore</string>
+    <string name="assignedto">Asssigned To...</string>
+    <string name="assigneby">Assigned By</string>
+    <string name="entddtask">Enter a Task</string>
+</resources>
